@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "PoetsenOne";
+    src: url("/fonts/PoetsenOne-Regular.ttf") format("ttf");
+  }
+  html {
+    font-family: "PoetsenOne", system-ui, sans-serif;
+  }
+}
