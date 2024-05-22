@@ -1,0 +1,8 @@
+@chainlink/contracts/=node_modules/@chainlink/contracts/
+@chainlink/contracts-ccip/=node_modules/@chainlink/contracts-ccip/
+@arbitrum/=node_modules/@arbitrum/
+@eth-optimism/=node_modules/@eth-optimism/
+@offchainlabs/=node_modules/@offchainlabs/
+@openzeppelin/=node_modules/@openzeppelin/
+@scroll-tech/=node_modules/@scroll-tech/
+forge-std/=lib/forge-std/src/
